@@ -17,5 +17,5 @@
 - 1.Mocking_and_Stubbing/
 - 2.Verifying_Interactions/
 
-#### 📋 SL4J Logging Exercises
+#### 📋 SLF4J Logging Exercises
 - 1.Logging_Errors_and_Warnings/
