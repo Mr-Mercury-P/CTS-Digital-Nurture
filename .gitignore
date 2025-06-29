@@ -1,0 +1,64 @@
+# ---------------------
+# OS / Editor / IDE Files
+# ---------------------
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+Week2/**/.vscode/
+
+# IntelliJ IDEA
+Week2/**/.idea/
+Week2/**/*.iml
+Week2/**/out/
+
+# Eclipse
+Week2/**/.project
+Week2/**/.classpath
+Week2/**/.settings/
+Week2/**/bin/
+
+# NetBeans
+Week2/**/nbproject/private/
+Week2/**/build/
+Week2/**/nbbuild/
+Week2/**/dist/
+Week2/**/nbdist/
+Week2/**/.nb-gradle/
+
+# ---------------------
+# Java / Build Artifacts
+# ---------------------
+Week2/**/*.class
+Week2/**/target/
+Week2/**/build/
+Week2/**/logs/
+Week2/**/test-output/
+
+# Maven / Gradle Wrappers
+Week2/**/.mvn/
+Week2/**/mvnw
+Week2/**/mvnw.cmd
+Week2/**/gradlew
+Week2/**/gradlew.bat
+Week2/**/gradle/
+
+# ---------------------
+# PLSQL / Temporary Files
+# ---------------------
+Week2/**/*.sql~
+Week2/**/*.bak
+Week2/**/*.tmp
+
+# ---------------------
+# Logs and Coverage
+# ---------------------
+Week2/**/*.log
+Week2/**/coverage/
+Week2/**/jacoco.exec
+
+# ---------------------
+# Optional: Skip documents
+# Uncomment to exclude assignments
+# Week2/**/*.pdf
+# Week2/**/*.docx
