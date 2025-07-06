@@ -13,7 +13,6 @@ public class Country {
     @Column(name = "co_name")
     private String name;
 
-    // ✅ Getter and Setter for code
     public String getCode() {
         return code;
     }
@@ -22,7 +21,6 @@ public class Country {
         this.code = code;
     }
 
-    // ✅ Getter and Setter for name
     public String getName() {
         return name;
     }
@@ -31,7 +29,6 @@ public class Country {
         this.name = name;
     }
 
-    // ✅ toString
     @Override
     public String toString() {
         return "Country{" +
