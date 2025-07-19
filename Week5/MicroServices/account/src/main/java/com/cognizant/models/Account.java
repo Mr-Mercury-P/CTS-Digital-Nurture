@@ -1,7 +1,7 @@
 package com.cognizant.models;
 
 public class Account {
-    public String number;
+    private String number;
 
     public Account(String number, String type, int balance) {
         this.number = number;
@@ -33,6 +33,6 @@ public class Account {
         this.balance = balance;
     }
 
-    public String type;
-    public int balance;
+    private String type;
+    private int balance;
 }
